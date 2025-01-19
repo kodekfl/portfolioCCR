@@ -91,7 +91,7 @@ main {
 }
 
 .main-section__Text {
-    font-family: 'Medula One', sans-serif;
+    font-family: "Medula One", serif;
     font-size: 6em;
     padding: 20px;
     letter-spacing: 2px; /* Ajusta el valor según tus necesidades */
